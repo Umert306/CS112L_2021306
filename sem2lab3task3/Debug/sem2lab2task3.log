@@ -1,0 +1,4 @@
+﻿  sem2lab2task3.cpp
+D:\C++ Programs\sem2lab2task3\sem2lab2task3.cpp(29,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\C++ Programs\sem2lab2task3\sem2lab2task3.cpp(37): warning C4715: 'converttodecimal': not all control paths return a value
+  sem2lab2task3.vcxproj -> D:\C++ Programs\sem2lab2task3\Debug\sem2lab2task3.exe

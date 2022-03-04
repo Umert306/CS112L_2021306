@@ -1,0 +1,9 @@
+﻿  sem2lab1task1.cpp
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(34,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(36,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(40,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(42,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(46,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(48,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ Programs\sem2lab1task1\sem2lab1task1.cpp(58,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  sem2lab1task1.vcxproj -> D:\C++ Programs\sem2lab1task1\Debug\sem2lab1task1.exe
