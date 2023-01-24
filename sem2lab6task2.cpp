@@ -5,7 +5,7 @@ private :
     int id;
     string name, rank;
 public:
-    static int count;
+    static
     void setter() {
         cout << "Enter Officer ID : ";
         cin >> id;
